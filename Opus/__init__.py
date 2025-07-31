@@ -16,7 +16,6 @@ userbot = Userbot()
 
 
 from .platforms import *
-from .platforms import PlaTForms
 
 Platform = PlaTForms()
 HELPABLE = {}
