@@ -17,8 +17,6 @@ userbot = Userbot()
 
 from .platforms import *
 
-Platform = PlaTForms()
-HELPABLE = {}
 Apple = AppleAPI()
 Carbon = CarbonAPI()
 SoundCloud = SoundAPI()
